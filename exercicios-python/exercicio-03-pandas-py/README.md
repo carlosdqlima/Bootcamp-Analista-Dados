@@ -38,4 +38,4 @@
 
 19. Calcule e exiba a soma das idades.
 
-20. Salve o DataFrame em um arquivo CSV.
+20. Salve o DataFrame em um arquivo csv.

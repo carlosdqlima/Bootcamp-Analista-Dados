@@ -1,6 +1,7 @@
 ## Criar o Banco de Dados
 
-![Tabela de SQL](https://github.com/carlosdqlima/Analista-Dados-Bootcamp-SoulCode/blob/main/exercicio-01-intro-sql/tabelas.png?raw=true)
+![Tabela de SQL](https://github.com/carlosdqlima/Analista-Dados-Bootcamp-SoulCode/blob/main/exercicios-sql/exercicio-01-intro-sql/tabelas.png?raw=true)
+
 
 **Objetivo:**
 

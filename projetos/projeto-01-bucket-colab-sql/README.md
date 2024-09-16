@@ -1,4 +1,4 @@
-# Projeto 01 - Bucket-Colab-SQL
+# Projeto 01 - Bucket Colab SQL
 
 - Realizar deploy da base de dados em anexo em um bucket/GCP via Colab.
 - Consumir a base armazenada no bucket via Colab e realizar ETL ou ELT com pandas e/ou PySpark.

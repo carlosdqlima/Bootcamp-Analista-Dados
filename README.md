@@ -33,7 +33,7 @@ O Bootcamp Analista de Dados da SoulCode é um programa intensivo projetado para
 * **Linguagem SQL:** Dominar a linguagem SQL para consultar, inserir, atualizar e deletar dados em bancos de dados relacionais.
 * **Banco de dados NoSQL:** Introdução aos bancos de dados NoSQL, suas características e casos de uso.
 * **Big Data - Análises com Big Query:** Aprender a realizar análises em Big Data utilizando o Google BigQuery.
-* **Spark SQL - 12h:** Dominar o Spark SQL para realizar consultas e análises em dados utilizando o Apache Spark.
+* **Spark SQL -** Dominar o Spark SQL para realizar consultas e análises em dados utilizando o Apache Spark.
 
 ### 5. INSIGHTS:
 
@@ -53,7 +53,6 @@ O repositório está organizado em pastas de acordo com os módulos do Bootcamp.
 * Análise exploratória de dados (EDA)
 * Limpeza e transformação de dados
 * Visualização de dados com Matplotlib e Seaborn
-* Modelagem preditiva com algoritmos de Machine Learning
 * Comunicação de insights a partir de dados
 
 ## Contato
